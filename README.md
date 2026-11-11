@@ -22,6 +22,8 @@ La carpeta `demo/` tiene los archivos que se usaron en vivo. **Todos los datos s
 | `demo/metrado.xlsx` | Metrado de la semana 45 de un pabellón de aulas: avance real contra programado por partida |
 | `demo/acta-reunion-2026-11-09.md` | Acta de reunión de obra con problemas, acuerdos y pendientes |
 | `demo/fotos/` | Cuatro fotos de avance de obra |
+| `demo/historial/` | Doce obras terminadas (2023 a 2026) con actas, metrados e informes de cierre: hay un patrón escondido en los atrasos |
+| `demo/planos/pabellon-primer-nivel.dxf` | Planta del primer nivel en DXF, para sacar el metrado de muros y compararlo con el Excel |
 
 ## Pruébalo tú
 
